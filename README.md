@@ -1,6 +1,6 @@
 ## Jogo da Velha
 
-Este é um simples jogo da velha feito em Java - meu primeiro projeto na linguagem. O objetivo era familiarizar-me com a sintaxe e transferir um pouco da minha lógica de programação adquirida em Javascript para Java.
+Jogo da velha desenvolvido em Java - meu primeiro projeto na linguagem. O objetivo era familiarizar-me com a sintaxe e transferir um pouco da minha lógica de programação adquirida em Javascript para Java.
 
 <br>
 <div align="center">
